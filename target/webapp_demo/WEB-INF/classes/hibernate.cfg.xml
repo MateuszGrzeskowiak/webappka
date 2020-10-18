@@ -21,5 +21,6 @@
         <property name="show_sql">false</property>
 
         <mapping class="pl.sda.mg.webappka.model.Student"/>
+        <mapping class="pl.sda.mg.webappka.model.Grade"/>
     </session-factory>
 </hibernate-configuration>
